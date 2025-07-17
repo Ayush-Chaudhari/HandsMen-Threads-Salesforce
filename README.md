@@ -241,7 +241,8 @@ For support and questions:
 ## Project Structure
 
 All source files are located in the following directory:
-force-app/main/default
+"force-app/main/default"
+
 This folder contains all Salesforce metadata components such as Apex classes, Lightning components, triggers, etc.
 
 
